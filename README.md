@@ -1,7 +1,5 @@
 # ToDayDo App
 
-A new Flutter project.
-
 ## Mobile Computing Project
 
 ## Team Members
